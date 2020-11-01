@@ -738,7 +738,14 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">I propose a two-stage, kernel estimator of truncated conditional expectation functions where the truncation occurs above or below conditional quantiles. In the first stage, I estimate the quantile function. In the second stage, I run a regression with a generated outcome variable based on an orthogonal conditional moment, which is insensitive to small perturbations of the quantile function. 	My estimator, based on local linear methods, has favorable bias properties both for interior and boundary points of the support of the conditioning variables.	As an extension, I consider estimation with an estimated truncation quantile level. I apply my estimator to estimate bounds on the local average treatment effect in a sharp regression discontinuity design with a manipulated running variable.</p>
+    <p class="pub-abstract">
+		Truncated conditional expectation functions are objects of interest in a wide range of economic applications in areas such as income inequality measurement, financial risk management, and impact evaluation. They typically involve truncating the outcome variable above or below certain quantiles of its conditional distribution.
+In this paper, based on local linear methods, I propose a novel, two-stage, nonparametric estimator of such functions.
+In this estimation problem, the conditional quantile function is a nuisance parameter, which has to be estimated in the first stage. I immunize my estimator against the first-stage estimation error by exploiting a Neyman-orthogonal moment in the second stage.
+This construction ensures that the proposed estimator has favorable bias properties and that inference methods developed for the standard nonparametric regression can be readily adapted to conduct inference on truncated conditional expectation functions.
+As an extension, I consider estimation with an estimated truncation quantile level.
+I apply my estimator in three empirical settings: (i) sharp regression discontinuity designs with a manipulated running variable, (ii) program evaluation under sample selection, and (iii) conditional expected shortfall estimation.
+	</p>
     
 
     
