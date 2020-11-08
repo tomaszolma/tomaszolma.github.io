@@ -5,7 +5,7 @@
     <link>/author/tomasz-olma/</link>
       <atom:link href="/author/tomasz-olma/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomasz Olma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tomasz Olma 2020</copyright><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Tomasz Olma 2020</copyright><lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tomasz Olma</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Nonparametric Estimation of Truncated Conditional Expectation Functions</title>
       <link>/publication/olma_jmp/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/olma_jmp/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Simple Inference in Fuzzy Regression Discontinuity Designs with a Manipulated Running Variable</title>
       <link>/publication/wp2/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/publication/wp2/</guid>
       <description></description>
     </item>
